@@ -35,7 +35,7 @@ friends:
   friendC: 
 about:
   enable: true
-  image: 'https://source.unsplash.com/random'
+  image: '/avatar/vzK_NXPGT9w.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
@@ -49,11 +49,11 @@ main_title: Gruel's Blog
 # subtitle
 subtitle: What doesn't kill you makes you stronger. 
 # site haeder image
-site_header_image: 'https://source.unsplash.com/random'
+site_header_image: '/avatar/IEHPDNk2-8w.jpg'
 # post haeder image
-post_header_image: 'https://source.unsplash.com/random'
+post_header_image: '/avatar/fVMtx2tmL0Q.jpg'
 # 404 image
-_404_image: 'https://source.unsplash.com/random'
+_404_image: '/avatar/UYP9-IXnNtU.jpg'
 
 # ========== Search ========== #
 algolia_search:
